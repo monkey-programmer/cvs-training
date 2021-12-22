@@ -7,6 +7,7 @@ This is the training repository
 
 ## SECTION 1
 
+HI Cuong
 ### Push and pull demo
 
 checked version 1>>2
