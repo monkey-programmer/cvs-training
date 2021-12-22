@@ -1,1 +1,1 @@
-console.log('Hello World from Viet Nam');
+console.log('Hello World from Japan');
