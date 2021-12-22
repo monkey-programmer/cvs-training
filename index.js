@@ -1,2 +1,1 @@
-console.log('Hello World from Rikky');
-
+console.log('Hello World from Rikky!');

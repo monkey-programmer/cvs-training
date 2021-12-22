@@ -1,11 +1,10 @@
 
-hello I am Linh
 # Hello world
---
 
 This is the training repository
+--
 
-## SECTION 1: Push and pull demo
+## SECTION 1 Push and pull demo
 
  - Checked version 1>>2
 
@@ -14,7 +13,9 @@ This is the training repository
  - Checked version 3>>4
 
 
-## SECTION 2: Branching models
+## SECTION 2 Branching models
 
 ### Centralized master
+### PR concepts
+
 
