@@ -10,6 +10,8 @@ This is the training repository
 HI Cuong
 ### Push and pull demo
 
-checked version 1>>2
-checked version 2>>3
-checked version 3>>4
+ - Checked version 1>>2
+
+ - Checked version 2>>3
+ 
+ - Checked version 3>>4
